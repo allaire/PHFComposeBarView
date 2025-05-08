@@ -26,4 +26,6 @@ https://raw.github.com/fphilipe/PHFComposeBarView/v2.0.0/Screenshots/demo.gif
 https://raw.github.com/fphilipe/PHFComposeBarView/v2.0.0/Screenshots/empty.png
 https://raw.github.com/fphilipe/PHFComposeBarView/v2.0.0/Screenshots/text.png
                      ]
+
+  s.dependency 'PHFDelegateChain', '~> 1.0'
 end
