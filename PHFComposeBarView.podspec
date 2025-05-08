@@ -6,6 +6,4 @@ Pod::Spec.new do |s|
   s.homepage       = 'https://github.com/fphilipe/PHFComposeBarView'
   s.license        = { :type => 'MIT', :file => 'LICENSE' }
   s.author         = { 'Philipe Fatio' => 'me@phili.pe' }
-
-  s.dependency 'PHFDelegateChain', '~> 1.0'
 end
